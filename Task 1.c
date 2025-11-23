@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdbool.h>
 
-
+//TASK 1
 void validate(char password[]);
 
 
@@ -72,3 +72,4 @@ void validate(char password[]){
     }
 
 }
+
