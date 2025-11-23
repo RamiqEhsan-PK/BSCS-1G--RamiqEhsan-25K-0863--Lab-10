@@ -70,4 +70,5 @@ void validate(char password[]){
     if(CaseCheck && length>8 && DigitCheck && SpecialCheck){
         printf("SUCCESS");
     }
+
 }
